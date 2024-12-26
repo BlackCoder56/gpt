@@ -6,6 +6,10 @@ fizzbuzz.py
     If number is a multiple of 3 and 5 -> FizzBuzz
 
 ```
+
+```
 is_palandrome.py
     Checks if string is the in backward as forword
     Ignores punctuations, spances and Capitalizations
+
+```
