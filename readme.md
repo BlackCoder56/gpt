@@ -9,7 +9,7 @@ fizzbuzz.py
 
 ```
 is_palandrome.py
-    Checks if string is the in backward as forword
+    Checks if string is the same in backward as forword
     Ignores punctuations, spances and Capitalizations
 
 ```
