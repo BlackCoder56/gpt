@@ -16,4 +16,4 @@ def is_palindrome(s: str) -> bool:
 print(is_palindrome("A man, a plan, a canal: Panama"))  # True
 print(is_palindrome("noon"))                           # True
 print(is_palindrome("hello"))                          # False
-print(is_palindrome("A dog: a big one or 2050 is coming!*")) #False
+print(is_palindrome("A dog: a big one or 2050 is coming!*")) # False
