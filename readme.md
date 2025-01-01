@@ -23,4 +23,5 @@ find_max_and_min.py
 
 ```
 count_vowels.py
+    Counts the number of vowels in a string.
 ```
