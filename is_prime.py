@@ -18,4 +18,4 @@ def is_prime(n: int) -> bool:
 
 
 
-print(is_prime(12))
+print(is_prime(224))
